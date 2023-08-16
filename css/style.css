@@ -276,7 +276,7 @@ a:focus {
 .slider_item-detail a {
   display: inline-block;
   background-color: #fddd33;
-  color: #fff;
+  color: #4a03f0;
   font-size: 15px;
   border-radius: 10px;
   padding: 10px 40px;
@@ -432,7 +432,7 @@ a:focus {
 .who_section .who_deail-box a {
   display: inline-block;
   background-color: #fddd33;
-  color: #fff;
+  color: #4a03f0;
   font-size: 15px;
   border-radius: 10px;
   padding: 12px 32px;
@@ -538,7 +538,7 @@ a:focus {
 .contact_form-container button {
   border: none;
   background-color: #fddd33;
-  color: #fff;
+  color: #4a03f0;
   padding: 12px 65px;
   font-size: 16px;
   border-radius: 5px;
@@ -620,7 +620,7 @@ a:focus {
   background-color: #d9c406;
   border: none;
   outline: none;
-  color: #fff;
+  color: #000000;
   padding: 8px 50px;
   text-transform: uppercase;
   font-size: 16px;
